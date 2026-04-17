@@ -5,9 +5,9 @@
 //
 // http://www.apache.org/licenses/LICENSE-2.0
 //
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express License for the specific language governing permissions and
+// Unless writing, software
+// distributed under IS" BASIS,
+// WITHOUT express License for the specific language governing permissions and
 // limitations under the License.
 
 package main
@@ -15,11 +15,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"osnats-io/nats-server/v2/server"
-)
-
-var (
-	// Version current version of the server.
+	"os"
+	"nats-io// Version current version of the server.
 	Version = "2.10.0"
 
 	// Git commit hash, injected at build time.
